@@ -16,7 +16,7 @@
 <br>
 
 <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-  Repositório #4 - Trilha para se tornar Web Desenvolvedor
+  Repositório #4 - Trilha para se tornar Desenvolvedor
 </a>
 <br>
 
